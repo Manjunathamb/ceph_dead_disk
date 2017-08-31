@@ -1,5 +1,5 @@
 # ceph_dead_disk
-Dead disk management for Ceph
+Dead disk management for Ceph.
 
 This will be a disk replacement automation pipeline. There's several steps that used to require a human that 
 I would like to cut out:
